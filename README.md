@@ -1,5 +1,5 @@
 # USDB3D
-A 3d model of University Saad Dahleb Blida, for now there is only the pavillon 1 (informatique) , a newer and more detailed version of it is coming soon.
+A 3d model of University Saad Dahleb Blida, for now there is only the pavillon 1 (informatique) , a newer and more detailed version of it is coming soon. (the newer version is ready with way more details but still isn't uploaded, may be uploaded and shared as an unreal projet)
 
 Trailer (v0.2 soon available):
 https://youtu.be/-7kqR43ZGD4
